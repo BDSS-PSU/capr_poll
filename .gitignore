@@ -5,6 +5,7 @@ data/
 *.sav
 *.npz
 *.pkl
+
 *.RData
 *.rData
 *.rdata
