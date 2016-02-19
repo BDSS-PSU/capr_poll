@@ -5,3 +5,5 @@ data/
 *.pkl
 *.RData
 *.Rhistory
+*.txt
+*.pyc
