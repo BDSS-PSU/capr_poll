@@ -1,7 +1,13 @@
 data/
 *.csv
 *.dat
+*.tsv
+*.sav
 *.npz
 *.pkl
 *.RData
+*.rData
+*.rdata
 *.Rhistory
+*.txt
+*.pyc
